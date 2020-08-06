@@ -1,7 +1,7 @@
 To convert the dataset to the version we used for our experiments open the csaws_creation folder and run the script generate_dataset.py
 
 ```
-data 
+current folder 
 │ 
 ├── CsawS 
 │     │
