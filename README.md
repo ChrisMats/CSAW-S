@@ -1,4 +1,11 @@
+<p align="center">
+  <img width="60%" src="imgs/annotation_example.png">
+</p>
+
+
 To convert the dataset to the version we used for our experiments open the csaws_creation folder and run the script generate_dataset.py
+
+
 
 ```
 current folder 
