@@ -1,3 +1,10 @@
+# CSAW-S: mammography screenings from 172 different patients with annotations for semantic segmentation
+
+## To download the dataset follow this [link](https://google.com)
+
+If you use this dataset please cite our work [Adding seemingly uninformative labels helps in low data regimes](https://proceedings.icml.cc/static/paper_files/icml/2020/2797-Paper.pdf)
+
+
 <p align="center">
   <img width="60%" src="imgs/annotation_example.png">
 </p>
