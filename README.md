@@ -10,11 +10,14 @@ If you use this dataset please cite our work [Adding seemingly uninformative lab
 </p>
 
 
-
+### Reproducibility
 **To convert the dataset to the version we used for our [experiments](https://github.com/ChrisMats/seemingly_uninformative_labels) open the csaws_creation folder and run the script generate_dataset.py**
 
+### Enviroment setup
+To install the enviroment we use run:
+```conda env create -f environment.yml```
 
-
+## Data structure
 ```
 current folder 
 │ 
